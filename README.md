@@ -6,7 +6,7 @@ Hey! This is a small project done with a small group of people. **DamasBR** is a
 
 As the game will have a slightly different concept from the original, some game modes will be added. For example:
 
-|                |DESCRIPTION                                                     |
+|MODE            |DESCRIPTION                                                     |
 |----------------|----------------------------------------------------------------|
-|Normal          |`'Normal checkers game mode.'`                                  |
+|Normal          |`Normal checkers game mode.`                                    |
 |Two Ladies      |`The game starts with a queen in random positions on each side.`|
